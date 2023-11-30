@@ -134,13 +134,14 @@ body {
 }
 
 .HOME .back{
-      grid-area: 3 / 1 / 11 / 7;
+	grid-area: 3 / 1 / 11 / 7;
 	  background-image: url(./img/back.svg);
 }
 
 .HOME .sponsor{
-      grid-area: 11 / 1 / 11 / 7;
-	  background-color: #e3dedb;
+	grid-area: 11 / 1 / 11 / 7;
+	background-color: #e3dedb;
+	height: 250px;
 }
 
 .HOME .s0{
