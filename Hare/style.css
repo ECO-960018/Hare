@@ -139,12 +139,12 @@ body {
 }
 
 .HOME .sponsor{
-      grid-area: 11 / 1 / 12 / 7;
+      grid-area: 11 / 1 / 11 / 7;
 	  background-color: #e3dedb;
 }
 
 .HOME .s0{
-      grid-area: 11 / 1 / 12 / 2;
+      grid-area: 11 / 1 / 11 / 2;
       font-family: "Bayon", Helvetica;
       color: #1B140F;
       text-align: center;
@@ -158,22 +158,22 @@ body {
 }
 
 .HOME .s2{
-      grid-area: 11 / 2 / 12 / 3;
+      grid-area: 11 / 2 / 11 / 3;
 	  background-image: url(./img/jj.png);
 }
 
 .HOME .s3{
-      grid-area: 11 / 3 / 12 / 4;
+      grid-area: 11 / 3 / 11 / 4;
 	  background-image: url(./img/tc.svg);
 }
 
 .HOME .s4{
-      grid-area: 11 / 4 / 12 / 5;
+      grid-area: 11 / 4 / 11 / 5;
 	  background-image: url(./img/mk.png);
 }
 
 .HOME .s5{
-      grid-area: 11 / 6 / 12 / 7;
+      grid-area: 11 / 6 / 11 / 7;
 	  background-image: url(./img/gdf.png);
 }
 
