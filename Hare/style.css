@@ -359,6 +359,7 @@ body {
 	grid-area: 11 / 1 / 14 / 7;
 	background-image: url(./img/burlesque-banner.svg);
 	background-position: right;
+	height: 640px;
 }
 
 .EVENTOS .b-text {
