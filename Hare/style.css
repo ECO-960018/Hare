@@ -376,7 +376,7 @@ body {
 }
 
 .EVENTOS .b-img {
-	background-position: center;
+	background-position: center bottom;
 	background-size: 640px 460px;
 }
 
