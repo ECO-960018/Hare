@@ -6,10 +6,6 @@
   box-sizing: border-box;
 }
 
-a {
-  text-decoration: none;
-}
-
 html,
 body {
   margin: 0px;
@@ -36,7 +32,6 @@ body {
   color: #1B140F;
   text-align: center;
   font-size: 48px;
-  letter-spacing: 0;
   line-height: 25px;
 }
 
@@ -134,14 +129,14 @@ body {
 }
 
 .HOME .back{
-	grid-area: 3 / 1 / 11 / 7;
+      grid-area: 3 / 1 / 11 / 7;
 	  background-image: url(./img/back.svg);
 }
 
 .HOME .sponsor{
-	grid-area: 11 / 1 / 11 / 7;
-	background-color: #e3dedb;
-	height: 250px;
+      grid-area: 11 / 1 / 11 / 7;
+	  background-color: #e3dedb;
+	  height: 250px;
 }
 
 .HOME .s0{
@@ -347,6 +342,13 @@ body {
 	background-position: right;
 }
 
+.EVENTOS .evt-deco {
+	grid-area: 10 / 1 / 11 / 7;
+	justify-self: center;
+	align-self: center;
+	padding-left: 12px;
+}
+
 .EVENTOS .bur-text{
 	grid-area: 11 / 4 / 13 / 7;
 	font-size: 40px;
@@ -360,6 +362,7 @@ body {
 	background-image: url(./img/burlesque-banner.svg);
 	background-position: right;
 	height: 640px;
+	max-width: 100%;
 }
 
 .EVENTOS .b-text {
